@@ -14,7 +14,9 @@ Language Used: C++.
 * Download and Install Webots from *cyberbotics.com*.
 * Ensure you have a C++ compiler.
 * Download the MazeExplorer file.
-* Open the world and start to create. 
+* Open the world and start to create.
+* If you want the controller only download the my_controller_MazeExplorer
+* If you want the controller with the .wbt world file then Download the MazeExplorer file entirely
 
 For Demo Video: [Demo Video](https://www.linkedin.com/posts/radhees-bala-2a08652b4_simulation-epfl-robots-ugcPost-7439364115367710722-T6l2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuW6VgBPYjPBeU6XmIGHNi1sBbR9MCAjSo)
 
